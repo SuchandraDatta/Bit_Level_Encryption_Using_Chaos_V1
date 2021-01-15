@@ -1,0 +1,3 @@
+During my undergraduate studies, my classmate and I developed a bit level encryption algorithm using chaos(version 1) under the guidance of our professor Dr. Ashok Nath. Our work was published as a paper in IJCSE link provided as follows: https://www.ijcseonline.org/pub_paper/73-IJCSE-06562.pdf
+
+This repository contains the code implementation of our algorithm, along with a PDF of the published paper.
