@@ -152,6 +152,7 @@ class DecryptFinal
 		{
 			obj[i]=new RandomIndexes();
 		}
+    //GIVING THE SAME SEED VALUE ENSURES THAT THE RANDOM NUMBERS GENERATED WILL BE SAME. If seed is S, and nextInt produces numbers p1, p2, p3 then whenever the seed is S, the random number object will generate p1 using nextInt as the seed is s0 of the pseudorandom number generator.
 		Random sr=new Random((long)pass);
 		int ri,rj;
 		int div; //div is the value which will decide the number of alive cells by making a fraction of cells 1.

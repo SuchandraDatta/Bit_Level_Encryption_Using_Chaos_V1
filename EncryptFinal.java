@@ -572,7 +572,6 @@ public class EncryptFinal
         } 
         return totCount;
     } 
-    //this code is from geeks_for_geeks
   	public static int nextGeneration(int grid[][], int M, int N,int checkInfinite, int totCount) 
     { 
         int[][] future = new int[M][N]; 
